@@ -85,3 +85,5 @@ plt.show()
 - The recovered bits closely matched the original input, confirming accurate modulation and demodulation.  
 
 # Hardware experiment output waveform.
+![WhatsApp Image 2025-05-09 at 18 59 28_56907e22](https://github.com/user-attachments/assets/a862db4b-3368-4aa9-a618-36cf0b57b99a)
+
